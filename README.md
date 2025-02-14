@@ -10,8 +10,20 @@ Hi! I'm Yasitha, a tech enthusiast and software engineer exploring the world of 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasitharenuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasitharenuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yasitharenuk/yasitharenuk/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yasitharenuk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yasitharenuk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
